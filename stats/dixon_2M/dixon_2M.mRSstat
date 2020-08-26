@@ -1,0 +1,16 @@
+## merge_statfiles.py
+## dir= hic_results/data//dixon_2M/
+## pattern= *.RSstat
+## Merging 1 files
+## Use /home/beoungl/hic/HiC-Pro_2.11.4/output/hic_results/data/dixon_2M/SRR400264_00_hg19.bwt2pairs.RSstat as template
+Valid_interaction_pairs	79177
+Valid_interaction_pairs_FF	19910
+Valid_interaction_pairs_RR	19696
+Valid_interaction_pairs_RF	19609
+Valid_interaction_pairs_FR	19962
+Dangling_end_pairs	59384
+Religation_pairs	5806
+Self_Cycle_pairs	897
+Single-end_pairs	0
+Filtered_pairs	16477
+Dumped_pairs	1697
